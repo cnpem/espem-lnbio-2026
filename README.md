@@ -4,6 +4,7 @@
 
 - Python 3.12
 - Placa de vídeo NVIDIA
+- Computador/notebook com webcam
 
 ## 1. Instalando o Python no Windows
 
