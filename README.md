@@ -3,8 +3,8 @@
 ## Requisitos
 
 - Python 3.12
-- Placa de vídeo NVIDIA
 - Computador/notebook com webcam
+- Placa de vídeo NVIDIA (opcional, mas desempenho será bem defasado sem uma placa de vídeo)
 
 ## 1. Instalando o Python no Windows
 
