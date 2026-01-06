@@ -1,0 +1,55 @@
+# LNBio ESPEM 2026
+
+## Requisitos
+
+- Python 3.12
+- Placa de vídeo NVIDIA
+
+---
+
+## 1. Instalando o Python no Windows
+
+### 1.1 Baixar o Python
+
+1. Clique [aqui](https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe) para fazer o download do Python 3.12.10
+
+
+### 1.2 Instalar o Python
+
+1. Abra o arquivo que você baixou (`python-3.12.10-amd64.exe`)
+2. **Muito importante**: marque a opção  
+   **Add Python to PATH**
+3. Clique em **Install Now**
+4. Aguarde a instalação finalizar
+
+---
+
+## 2. Fazendo o download do projeto
+
+1. Clique [aqui]( ) para fazer o download do projeto compactado.
+2. Extraia o arquivo
+---
+
+## 3. Criar ambiente virtual e instalar dependências
+
+1. Abra o terminal na pasta em que foi extraído o projeto, clicando com o botão direito em algum lugar vazio da pasta e selecionando a opção "Abrir no Terminal"
+2. Crie o ambiente virtual com o comando: 
+    ```bash
+    python -m venv venv
+    ```
+3. Ative o ambiente virtual:
+    ```bash
+    .\venv\Scripts\activate
+    ```
+4. Instale as dependências:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## 4. Execute o programa
+
+Para executar o programa, rode o seguinte comando após ter instalado as dependências no passo anterior:
+
+```bash
+python live_inference.py
+```
