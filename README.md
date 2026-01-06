@@ -21,7 +21,7 @@
 
 ## 2. Fazendo o download do projeto
 
-1. Clique [aqui]( ) para fazer o download do projeto compactado.
+1. Clique [aqui](https://github.com/r1ckhdk/espem-lnbio-2026/archive/refs/tags/v1.0.zip) para fazer o download do projeto compactado.
 2. Extraia o arquivo
 
 ## 3. Criando ambiente virtual e instalando dependências
