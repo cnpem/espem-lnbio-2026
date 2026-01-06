@@ -5,14 +5,11 @@
 - Python 3.12
 - Placa de vídeo NVIDIA
 
----
-
 ## 1. Instalando o Python no Windows
 
 ### 1.1 Baixar o Python
 
 1. Clique [aqui](https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe) para fazer o download do Python 3.12.10
-
 
 ### 1.2 Instalar o Python
 
@@ -22,13 +19,10 @@
 3. Clique em **Install Now**
 4. Aguarde a instalação finalizar
 
----
-
 ## 2. Fazendo o download do projeto
 
 1. Clique [aqui]( ) para fazer o download do projeto compactado.
 2. Extraia o arquivo
----
 
 ## 3. Criar ambiente virtual e instalar dependências
 
