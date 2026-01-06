@@ -24,7 +24,7 @@
 1. Clique [aqui]( ) para fazer o download do projeto compactado.
 2. Extraia o arquivo
 
-## 3. Criar ambiente virtual e instalar dependências
+## 3. Criando ambiente virtual e instalando dependências
 
 1. Abra o terminal na pasta em que foi extraído o projeto, clicando com o botão direito em algum lugar vazio da pasta e selecionando a opção "Abrir no Terminal"
 2. Crie o ambiente virtual com o comando: 
@@ -40,7 +40,7 @@
     pip install -r requirements.txt
     ```
 
-## 4. Execute o programa
+## 4. Executando o programa
 
 Para executar o programa, rode o seguinte comando após ter instalado as dependências no passo anterior:
 
