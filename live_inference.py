@@ -50,7 +50,20 @@ try:
             break
         image = cv.flip(image, 1)
         start = time.perf_counter()
-        results = model_seg.predict(image, classes = [0, 16, 24, 25, 26, 39, 41, 47, 56, 62, 67, 73, 74], device=device) 
+        # 0: person
+        # 24: backpack
+        # 25: umbrella
+        # 26: handbag
+        # 39: bottle
+        # 41: cup
+        # 47: apple
+        # 56: chair
+        # 62: tv
+        # 67: cell phone
+        # 73: book
+        # 74: clock
+        # To list all classes: model_seg.names
+        results = model_seg.predict(image, classes = [0, 24, 25, 26, 39, 41, 47, 56, 62, 67, 73, 74], device=device) 
         results_pose = model_pose.predict(image) 
         end = time.perf_counter()
         
