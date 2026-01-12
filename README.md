@@ -103,6 +103,6 @@ O que esperar ao executar:
 
 Para encerrar a execução do programa, pressione a tecla `q` no teclado.
 
-## Dúvidas ou problemas?
+# Dúvidas ou problemas?
 
 Se você encontrar algum problema ou tiver dúvidas, sinta-se à vontade para abrir uma issue neste repositório em [Issues](https://github.com/cnpem/espem-lnbio-2026/issues).
